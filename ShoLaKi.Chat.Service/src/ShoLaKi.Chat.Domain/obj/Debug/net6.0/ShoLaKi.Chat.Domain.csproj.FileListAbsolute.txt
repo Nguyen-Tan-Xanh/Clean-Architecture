@@ -1,0 +1,11 @@
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\bin\Debug\net6.0\ShoLaKi.Chat.Domain.deps.json
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\bin\Debug\net6.0\ShoLaKi.Chat.Domain.dll
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\bin\Debug\net6.0\ShoLaKi.Chat.Domain.pdb
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\obj\Debug\net6.0\ShoLaKi.Chat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\obj\Debug\net6.0\ShoLaKi.Chat.Domain.AssemblyInfoInputs.cache
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\obj\Debug\net6.0\ShoLaKi.Chat.Domain.AssemblyInfo.cs
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\obj\Debug\net6.0\ShoLaKi.Chat.Domain.csproj.CoreCompileInputs.cache
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\obj\Debug\net6.0\ShoLaKi.Chat.Domain.dll
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\obj\Debug\net6.0\refint\ShoLaKi.Chat.Domain.dll
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\obj\Debug\net6.0\ShoLaKi.Chat.Domain.pdb
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Domain\obj\Debug\net6.0\ref\ShoLaKi.Chat.Domain.dll

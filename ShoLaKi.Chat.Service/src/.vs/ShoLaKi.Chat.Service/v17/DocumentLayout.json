@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ShoLaKi.Chat.Service\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.service\\sholaki.chat.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|solutionrelative:sholaki.chat.service\\sholaki.chat.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.infrastructure\\migrations\\authcontextdesignfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|solutionrelative:sholaki.chat.infrastructure\\migrations\\authcontextdesignfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.infrastructure\\lib\\efdbcontextdesignfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|solutionrelative:sholaki.chat.infrastructure\\lib\\efdbcontextdesignfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.infrastructure\\lib\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|solutionrelative:sholaki.chat.infrastructure\\lib\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.infrastructure\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|solutionrelative:sholaki.chat.infrastructure\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.infrastructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|solutionrelative:sholaki.chat.infrastructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.infrastructure\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|solutionrelative:sholaki.chat.infrastructure\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\exceptions\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\exceptions\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\exceptions\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\exceptions\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\exceptions\\basedomainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\exceptions\\basedomainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\entities\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\entities\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\domainevents\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\domainevents\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\const\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\const\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\common\\efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\common\\efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.service\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|solutionrelative:sholaki.chat.service\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.service\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|solutionrelative:sholaki.chat.service\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.service\\helpers\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|solutionrelative:sholaki.chat.service\\helpers\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.service\\extensions\\webapplicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|solutionrelative:sholaki.chat.service\\extensions\\webapplicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.service\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|solutionrelative:sholaki.chat.service\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.service\\extensions\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9DD14-963C-4923-B76A-59F221777219}|ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj|solutionrelative:sholaki.chat.service\\extensions\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.domain\\sholaki.chat.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31B94035-5AEF-40A5-92D7-D3600AC74D52}|ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj|solutionrelative:sholaki.chat.domain\\sholaki.chat.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|d:\\sholaki.chat.service\\src\\sholaki.chat.infrastructure\\sholaki.chat.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11445F9C-F3E6-4009-A30B-A17772EBCF31}|ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj|solutionrelative:sholaki.chat.infrastructure\\sholaki.chat.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\ShoLaKi.Chat.Service.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\ShoLaKi.Chat.Service.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthContextDesignFactory.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\Migrations\\AuthContextDesignFactory.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Infrastructure\\Migrations\\AuthContextDesignFactory.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\Migrations\\AuthContextDesignFactory.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Infrastructure\\Migrations\\AuthContextDesignFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:42:09.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\Lib\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Infrastructure\\Lib\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\Lib\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Infrastructure\\Lib\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:40:15.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:39:36.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:39:05.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatContext.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\ChatContext.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Infrastructure\\ChatContext.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\ChatContext.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Infrastructure\\ChatContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:38:14.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoLaKi.Chat.Service.csproj",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj",
+              "RelativeToolTip": "ShoLaKi.Chat.Service\\ShoLaKi.Chat.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T09:00:38.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFDbContextDesignFactory.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\Lib\\EFDbContextDesignFactory.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Infrastructure\\Lib\\EFDbContextDesignFactory.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\Lib\\EFDbContextDesignFactory.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Infrastructure\\Lib\\EFDbContextDesignFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:40:28.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:37:35.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvalidException.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\InvalidException.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Exceptions\\InvalidException.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\InvalidException.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Exceptions\\InvalidException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:37:24.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForbiddenException.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\ForbiddenException.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Exceptions\\ForbiddenException.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\ForbiddenException.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Exceptions\\ForbiddenException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:37:14.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Exceptions\\ConflictException.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\ConflictException.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Exceptions\\ConflictException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:37:03.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BusinessRuleException.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\BusinessRuleException.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Exceptions\\BusinessRuleException.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\BusinessRuleException.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Exceptions\\BusinessRuleException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:36:51.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseDomainException.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\BaseDomainException.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Exceptions\\BaseDomainException.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Exceptions\\BaseDomainException.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Exceptions\\BaseDomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:36:37.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:36:06.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Entities\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Entities\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Entities\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Entities\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:35:46.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\DomainEvents\\Class1.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\DomainEvents\\Class1.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\DomainEvents\\Class1.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\DomainEvents\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:34:46.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Const.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Const\\Const.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Const\\Const.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Const\\Const.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Const\\Const.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:34:05.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Common\\IRepository.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Common\\IRepository.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Common\\IRepository.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Common\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:33:02.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Common\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Common\\IUnitOfWork.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Common\\IUnitOfWork.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Common\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:32:44.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Common\\IEntity.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Common\\IEntity.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Common\\IEntity.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Common\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:32:23.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EFContext.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Common\\EFContext.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\Common\\EFContext.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\Common\\EFContext.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\Common\\EFContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:32:05.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Service\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Service\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:29:42.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Service\\Mappers\\UserMapper.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Service\\Mappers\\UserMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:29:26.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Helpers\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Service\\Helpers\\ConfigurationHelper.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Helpers\\ConfigurationHelper.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Service\\Helpers\\ConfigurationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:29:02.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebApplicationExtension.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Extensions\\WebApplicationExtension.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Service\\Extensions\\WebApplicationExtension.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Extensions\\WebApplicationExtension.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Service\\Extensions\\WebApplicationExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:28:44.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Service\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Service\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:28:25.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConfigurationExtension.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Extensions\\ConfigurationExtension.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Service\\Extensions\\ConfigurationExtension.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\Extensions\\ConfigurationExtension.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Service\\Extensions\\ConfigurationExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:28:09.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShoLaKi.Chat.Service.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\ShoLaKi.Chat.Service.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\ShoLaKi.Chat.Service.AssemblyInfo.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\ShoLaKi.Chat.Service.AssemblyInfo.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\ShoLaKi.Chat.Service.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:18:00.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": ".NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "ShoLaKi.Chat.Service\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:17:46.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShoLaKi.Chat.Domain.csproj",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj",
+              "RelativeToolTip": "ShoLaKi.Chat.Domain\\ShoLaKi.Chat.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T09:00:42.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShoLaKi.Chat.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj",
+              "ToolTip": "D:\\ShoLaKi.Chat.Service\\src\\ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj",
+              "RelativeToolTip": "ShoLaKi.Chat.Infrastructure\\ShoLaKi.Chat.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T09:00:40.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

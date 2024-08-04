@@ -1,0 +1,7 @@
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Service\obj\Debug\net6.0\ShoLaKi.Chat.Service.csproj.AssemblyReference.cache
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Service\obj\Debug\net6.0\ShoLaKi.Chat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Service\obj\Debug\net6.0\ShoLaKi.Chat.Service.AssemblyInfoInputs.cache
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Service\obj\Debug\net6.0\ShoLaKi.Chat.Service.AssemblyInfo.cs
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Service\obj\Debug\net6.0\ShoLaKi.Chat.Service.csproj.CoreCompileInputs.cache
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Service\obj\Debug\net6.0\ShoLaKi.Chat.Service.MvcApplicationPartsAssemblyInfo.cs
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Service\obj\Debug\net6.0\ShoLaKi.Chat.Service.MvcApplicationPartsAssemblyInfo.cache

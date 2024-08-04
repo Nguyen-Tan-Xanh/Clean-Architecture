@@ -1,0 +1,11 @@
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\bin\Debug\net6.0\ShoLaKi.Chat.Infrastructure.deps.json
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\bin\Debug\net6.0\ShoLaKi.Chat.Infrastructure.dll
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\bin\Debug\net6.0\ShoLaKi.Chat.Infrastructure.pdb
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\obj\Debug\net6.0\ShoLaKi.Chat.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\obj\Debug\net6.0\ShoLaKi.Chat.Infrastructure.AssemblyInfoInputs.cache
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\obj\Debug\net6.0\ShoLaKi.Chat.Infrastructure.AssemblyInfo.cs
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\obj\Debug\net6.0\ShoLaKi.Chat.Infrastructure.csproj.CoreCompileInputs.cache
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\obj\Debug\net6.0\ShoLaKi.Chat.Infrastructure.dll
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\obj\Debug\net6.0\refint\ShoLaKi.Chat.Infrastructure.dll
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\obj\Debug\net6.0\ShoLaKi.Chat.Infrastructure.pdb
+D:\học\ShoLaKi\src\ShoLaKi.Chat.Infrastructure\obj\Debug\net6.0\ref\ShoLaKi.Chat.Infrastructure.dll
